@@ -1,0 +1,13 @@
+# Maven / Spring
+target/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# SO
+.DS_Store
+Thumbs.db
